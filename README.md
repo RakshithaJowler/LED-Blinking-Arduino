@@ -36,8 +36,5 @@ void loop() {
 }
 
 
-## project image
-![LED Blinking Tinkercad Circuit](./
-image.png)
 
 
