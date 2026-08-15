@@ -36,9 +36,7 @@ void loop() {
   delay(1000);
 }
 
-...markdown
-![LED Blinking Tinkercad Circuit](./
-image.png)
+
 
 
 
