@@ -36,8 +36,7 @@ void loop() {
   delay(1000);
 }
 ## project image
-![LED Blinking Tinkercad Circuit](./
-image.png)
+<img src="image.png" alt="LED Blinking Tinkercad Circuit" width="600">
 
 
 
