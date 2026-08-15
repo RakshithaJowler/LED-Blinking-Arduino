@@ -15,23 +15,26 @@ The Arduino controls the LED connected to digital pin 13. The LED turns ON for 1
 ## Programming
 
 Arduino C/C++
-## Project Image
 
-![LED Blinking Tinkercad Circuit]
-(image.png)
-## programing
+## Programming
+
+Arduino C/C++
+
+```cpp
 int led = 13;
 
-void setup()
-{
-    pinMode(led, OUTPUT);
+void setup() {
+  pinMode(led, OUTPUT);
 }
 
-void loop()
-{
-    digitalWrite(led, HIGH);
-    delay(1000);
+void loop() {
+  digitalWrite(led, HIGH);
+  delay(1000);
 
-    digitalWrite(led, LOW);
-    delay(1000);
+  digitalWrite(led, LOW);
+  delay(1000);
 }
+## Project Image
+
+![LED Blinking Tinkercad Circuit](image.png)
+
