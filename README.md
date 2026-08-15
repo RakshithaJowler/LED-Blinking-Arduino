@@ -36,6 +36,5 @@ void loop() {
 }
 ## Project Image
 
-![LED Blinking Tinkercad Circuit]
-(image.png)
+![LED Blinking Tinkercad Circuit](image.png)
 
