@@ -35,6 +35,6 @@ void loop() {
   delay(1000);
 }
 
-![LED Blinking Tinkercad Circuit](https://github.com/RakshithaJowler/LED-Blinking-Arduino/blob/main/image.png)
+![LED Blinking Tinkercad Circuit](./image.png)
 
 
