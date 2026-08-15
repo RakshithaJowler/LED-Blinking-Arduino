@@ -34,8 +34,7 @@ void loop() {
   digitalWrite(led, LOW);
   delay(1000);
 }
-## Project Image
-! [LED Blinking Tinkercad Circuit]
-(image.png)
+
+![LED Blinking Tinkercad Circuit](https://github.com/RakshithaJowler/LED-Blinking-Arduino/blob/main/image.png)
 
 
