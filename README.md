@@ -16,6 +16,9 @@ The Arduino controls the LED connected to digital pin 13. The LED turns ON for 1
 
 Arduino C/C++
 
+## project image
+<img src="image.png" alt="LED Blinking Tinkercad Circuit" width="600">
+
 
 ## Programming code
 
@@ -39,9 +42,6 @@ void loop() {
 
 
 
-
-## project image
-<img src="image.png" alt="LED Blinking Tinkercad Circuit" width="600">
 
 
 
